@@ -39,7 +39,6 @@ apis:
   - name: SavePage.io
     description: "A free, RESTful API used to screenshot any desktop, or mobile website"
     humanURL: https://www.savepage.io
-    baseURL: https://www.savepage.io
     tags:
       - Development
     properties:
